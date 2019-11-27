@@ -10,4 +10,5 @@ if(len(string)<2):
 else:
 	strip_string = string[1:-1]
 
-print(f"El nuevo string es: {strip_string}")
+print(f"El nuevo string es: {strip_string}")   
+print(f"El nuevo string es: {strip_string}") 
